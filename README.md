@@ -1,6 +1,11 @@
-# wisdyreport
+# Wisdy Report UI
 
-wisdy report by Olga Staromłyńska
+This app I copy UI for my practice flutter from dribble
+
+![Screen1](https://github.com/trapeye/wisdyreport-ui---flutter/blob/master/screenshot/screen1.PNG) ![Screen2](https://github.com/trapeye/wisdyreport-ui---flutter/blob/master/screenshot/screen2.PNG)
+
+Credit UI
+[Wisdy Report by Olga Staromłyńska](https://dribbble.com/shots/11582772-wisdy-report/attachments)
 
 ## Getting Started
 
